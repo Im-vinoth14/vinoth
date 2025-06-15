@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Vinoth!
 
-I'm a passionate **Front-End Developer** skilled in crafting responsive, dynamic, and user-friendly web applications. I enjoy building seamless UI experiences with clean code and modern frameworks. My focus is on delivering pixel-perfect designs and robust front-end solutions.
+I'm a passionate **Front-End Developer** with 3.9 years of experience crafting responsive, user-friendly web applications. I specialize in Angular, TypeScript, and modern UI frameworks, delivering clean code and seamless experiences.
 
 📫 Reach me at [vinoth.tech196@gmail.com](mailto:vinoth.tech196@gmail.com)
 
@@ -45,8 +45,7 @@ An interactive dashboard for managing products and orders with real-time updates
 
 ## 🤝 Let's Connect!
 
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+- 💼 [LinkedIn](https://www.linkedin.com/in/vinoth-v-9927712a8/)
 - 🌐 [Portfolio](https://yourportfolio.com)
-- 🐦 [X](https://x.com/yourusername)
 
 Currently exploring advanced Angular features and open to collaborating on innovative web projects! Feel free to reach out or check out my repos. 😄
